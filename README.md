@@ -2,7 +2,7 @@
 <html lang="es">
 <head>
   <meta charset="UTF-8">
-  <title>Flor para Alexandra 🌻</title>
+  <title>Flor para G🌻</title>
   <style>
     body {
       background-color: #1a1a1a;
@@ -58,7 +58,7 @@
     pero entonces llegaste tú,<br>
     y hasta el sol se enamoró.</p>
 
-    <p><strong>Una flor para otra flor: Alexandra 🌻</strong></p>
+    <p><strong>Una flor para otra flor: G 🌻</strong></p>
 
     <button id="start-btn">Alexandra</button>
   </div>
